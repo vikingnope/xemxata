@@ -50,3 +50,9 @@ dist/
 
 # turbo
 .turbo
+
+# WebStorm
+.idea/
+
+# VSCode
+.vscode/
